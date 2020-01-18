@@ -6,6 +6,7 @@
 * [![Video](images/video.png) REST 36:02](https://youtu.be/xjFuA6q5N_U)
 * ![Presentation](images/presentation.png)
 * ![Ok](images/ok.png).
+* $ This is test by Rahul
 
 Excerpt From: Gregor von Laszewski. “Cloud Computing.” Apple Books. 
 
