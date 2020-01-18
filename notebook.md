@@ -3,9 +3,9 @@
 * :+1: Setup github and chameleon accounts
 * :o2: Attented kickoff meeting.
 * Learning Markdown shortcuts
-** [![Video](images/video.png) REST 36:02](https://youtu.be/xjFuA6q5N_U)
-** ![Presentation](images/presentation.png)
-** ![Ok](images/ok.png).
+* [![Video](images/video.png) REST 36:02](https://youtu.be/xjFuA6q5N_U)
+* ![Presentation](images/presentation.png)
+* ![Ok](images/ok.png).
 
 Excerpt From: Gregor von Laszewski. “Cloud Computing.” Apple Books. 
 
