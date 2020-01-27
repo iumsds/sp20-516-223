@@ -17,7 +17,7 @@ Pheonix Data Center     Chandler, AZ    2019    8.84c/kWh                       
 
 ## E.Datacenter.3
 
-My personal carbon footprint is about 43 Tonnes.
+My personal carbon footprint is about 43 tons CO<sub>2</sub>eq/year.
 
 ## E.Datacenter.4
 
