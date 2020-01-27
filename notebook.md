@@ -10,7 +10,7 @@
 * Excercises
 * [x] datacenter
 * [x] multipass 
-* [ ] Run Provider.py code to launch multipass
+* [x] Run Provider.py code to launch multipass
 
 ## Week Fri 01/13/20 - 01/20/20
 
