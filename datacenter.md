@@ -56,10 +56,11 @@ Facebook 14 hour partial outage on Nov 29, 2019:
 
 According to this [article](https://www.information-management.com/news/how-much-does-downtime-really-cost) a approximate cost of an downtime/outage can be computed using 
 
-Hourly Labor Cost = P x A x C
+Hourly Labor Cost = P * A * C
 
-Where: <br>
-P = number of people affected <br>
-A = average percentage they are affected <br>
-C = average employee cost (salaries or wages + benefits)   
+Where: 
+
+* P = number of people affected 
+* A = average percentage they are affected 
+* C = average employee cost (salaries or wages + benefits)   
 
