@@ -6,5 +6,6 @@
 
 ## Indroduction
 
+Google [@www-google] provides AI services to do your work.
 
-<https://www.google.com>
+
