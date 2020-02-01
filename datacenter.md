@@ -1,4 +1,4 @@
-# Datacenter excercise - Week 2 -  Rahul Dharmchand sp20-516-223
+# Datacenter, Rahul Dharmchand sp20-516-223
 
 The datacenter chapter provided us details about different types of Data Center, their energy usage, CO<sub>2</sub> emmission and how PUE matters. Making these datacenters efficient and clean is the main goal of providers as well as governments of many countries.
 
