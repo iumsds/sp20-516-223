@@ -2,6 +2,17 @@
 
 ## Week 01/27/20 - 02/02/20
 
+* [x] Review Architecture Chapter
+* [x] Propose Chapter: [AWS RoboMaker](https://aws.amazon.com/robomaker)
+* [x] Review Python language basics 
+* [x] Review cloudmesh chapter in Python book.
+
+    #### Exercises
+* [ ] Cloudmesh
+    * [x] Cloudmesh Common
+    * [ ] Cloudmesh Shell
+* [ ] AWS RoboMaker Introduction
+
 ## Week 01/20/20 - 01/26/20
 
 * [x] Setup Ubuntu 19.10 on laptop (Dual boot with Windows 10 Home)

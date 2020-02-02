@@ -1,11 +1,9 @@
 import os
-#from cloudmesh.common.util import banner
-# can be installed with pip install cloudmesh-common
 
-def banner(message):
-    print("# ----------------------------------------------------------------------")
-    print(f"# {message}")
-    print("# ----------------------------------------------------------------------")
+from cloudmesh.common.util import banner
+
+
+# can be installed with pip install cloudmesh-common
 
 class Provider:
 
@@ -20,7 +18,7 @@ class Provider:
     def delete(self, purge=True):
         banner(f"delete {self.name}")
         # terminate and purge
-        os.system(f"multipass delete {self.name}")
+        # os.system(f"multipass delete {self.name}")
         # Once purged it cannot be recovered.
         # So we add a purge bool if we do not want o purge we set it to False
         if purge:
@@ -58,5 +56,5 @@ if __name__ == "__main__":
     p.list()
     p.run("uname -r")
     p.images()
-    p.delete()
+    p.delete(False)
     p.list()
