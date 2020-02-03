@@ -1,0 +1,22 @@
+# fa20-516-223 E.Cloudmesh.Shell.2
+
+(ENV3) ~/cm$cms sys command generate rahul
+{'upload': False, 'commit': False, 'MESSAGE': None, 'command': True, 'generate': True, 'NAME': 'rahul', '.': False, 'version': False, 'VERSION': None}
+{'Command': 'Rahul', 'command': 'rahul', 'package': 'cloudmesh-rahul'}
+Cloning into 'cloudmesh-bar'...
+remote: Enumerating objects: 8, done.
+remote: Counting objects: 100% (8/8), done.
+remote: Compressing objects: 100% (7/7), done.
+remote: Total 292 (delta 0), reused 5 (delta 0), pack-reused 284
+Receiving objects: 100% (292/292), 37.63 KiB | 4.18 MiB/s, done.
+Resolving deltas: 100% (119/119), done.
+
+(ENV3) ~/cm$cms help
+
+Documented commands (type help <topic>):
+========================================
+EOF     commands  echo  man     py    rahul  sleep      var
+banner  debug     help  pause   q     set    stopwatch  version
+clear   default   info  plugin  quit  shell  sys
+
+
