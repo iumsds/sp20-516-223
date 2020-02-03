@@ -1,5 +1,10 @@
 # Notebook Rahul Dharmchand sp20-516-223
 
+## Week 03/02/20 - 02/10/20
+
+* [ ] AWS RoboMaker Introduction
+* [ ] Review chapter
+
 ## Week 01/27/20 - 02/02/20
 
 * [x] Review Architecture Chapter
@@ -8,10 +13,9 @@
 * [x] Review cloudmesh chapter in Python book.
 
     #### Exercises
-* [ ] Cloudmesh
+* [x] Cloudmesh
     * [x] Cloudmesh Common
-    * [ ] Cloudmesh Shell
-* [ ] AWS RoboMaker Introduction
+    * [x] Cloudmesh Shell
 
 ## Week 01/20/20 - 01/26/20
 
