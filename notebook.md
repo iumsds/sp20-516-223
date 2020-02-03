@@ -1,6 +1,6 @@
 # Notebook Rahul Dharmchand sp20-516-223
 
-## Week 03/02/20 - 02/10/20
+## Week 02/03/20 - 02/09/20
 
 * [ ] AWS RoboMaker Introduction
 * [ ] Review chapter
