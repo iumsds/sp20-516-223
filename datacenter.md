@@ -1,5 +1,7 @@
 # Datacenter, Rahul Dharmchand sp20-516-223
 
+* :o2: please learn markdown, attending eductaional section mandatory
+
 The datacenter chapter provided us details about different types of Data Center, their energy usage, CO<sub>2</sub> emmission and how PUE matters. Making these datacenters efficient and clean is the main goal of providers as well as governments of many countries.
 
 ## E.datacenter.2a
