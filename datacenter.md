@@ -1,62 +1,112 @@
 # Datacenter, Rahul Dharmchand sp20-516-223
 
-* :o2: please learn markdown, attending eductaional section mandatory
+* :o2: please learn markdown, attending educational section mandatory
 
-The datacenter chapter provided us details about different types of Data Center, their energy usage, CO<sub>2</sub> emmission and how PUE matters. Making these datacenters efficient and clean is the main goal of providers as well as governments of many countries.
+The datacenter chapter provided us details about different types of Data Center, their energy usage, CO2 emission and how PUE matters. Making these datacenters efficient and clean is the main goal of providers as well as governments of many countries.
 
 ## E.datacenter.2a
 
-Source : https://www.salesforce.com/content/dam/web/en_us/www/documents/white-papers/sustainability-FY19-stakeholder-impact-report.pdf
-
-As per the above sustainability report from Salesforce, added the information related to their Chandler, AZ data center to the sheet.
+As per the sustainability report from Salesforce [@sp20-516-223-sp-dc-2], added the information related to their Phoenix Data Center, Chandler, AZ data center to the [sheet](https://docs.google.com/spreadsheets/d/1gh869zfjA4sVxL8-ga0af2_HLTTuOoD1IReuRSrbq4I/edit#gid=0).
 
 ## E.datacenter.2b
-Salesforce has about 13 of their own Data Centers in various locations/regions and Chandler, AZ is the largest one (as of Jan 2020). As per the report, in 2019 this datacenter consumed about 119 million kWh of energy and caused 57000 metric ton of CO<sub>2</sub> emission.
 
-Data Center             Location        Year    Electicity Cost     IT Load     Yearly Cost     Yearly CO<sub>2</sub> Footprint     Equivalent of Cars                
------------             ------------    ----    ---------------     -------     -----------     --------------------------------    -------------------       
-Pheonix Data Center     Chandler, AZ    2019    8.84c/kWh                       $118,744,000                                57000                  12102
+Salesforce has about 13 of their own Data Centers in various locations/regions and Chandler, AZ is the largest one (as of Jan 2020).
+As per the report, in 2019 this data center consumed about 119 million kWh of energy and caused 57000 metric 
+tons of CO2 emission.
 
 ## E.Datacenter.3
 
-My personal carbon footprint is about 43 tons CO<sub>2</sub>eq/year.
+My personal carbon footprint is about 31,399 lbs while the US average is about 64,946 [sp20-516-223-dc-cf-1].
 
 ## E.Datacenter.4
 
-last-HID-digit modulo 6 => 3%6 = 3, so I choose Thermal.
+[comment]: # (last-HID-digit modulo 6 => 3%6 = 3, so I choose Thermal.)
 
-The word "Thermal" originated from greek word Theme means heat. Thermal energy is energy produced generally using heat/combustion. Traditionally coal is used to heat boilers with water and the steam produced is to used to turn large turbines. These rotating turbines through electromagnetism produces electricity. 
+The word "Thermal" originated from the greek word Theme means heat. 
+Thermal energy is energy produced generally using heat/combustion. 
+Traditionally coal is used to heat boilers with water and the steam produced is to used to turn large turbines. 
+These rotating turbines through electromagnetism produce electricity. 
 
-Though coal has bean a major resource used by thermal plants, but it has a huge carbon footprint. This led to usage of renewable resources like natural gas, biomass and other types of combustible oils to produce electricity in recent years. From [link](https://spectrum.ieee.org/energywise/telecom/internet/iceland-data-center-paradise), countries like Iceland are also finding ways to use geothermal energy to power data centers. 
+Though coal has been a major resource used by thermal plants, it has a huge carbon footprint. 
+This led to the usage of renewable resources like natural gas, biomass and other types of combustible 
+oils to produce electricity in recent years. 
+Countries like Iceland are also finding ways to use geothermal energy to power data centers[sp20-516-223-dc-gt-3]. 
 
-Geothermal energy is also used to cool data centers. Following data centers use geothermal energy to cool ([source](https://www.datacenterknowledge.com/geothermal-data-centers))
+### Geothermal Energy
+
+Geothermal energy is also used to cool data centers which is different from using it to generate electricity. Earth's surface is always constant temperature. 
+This feature can be used to dissipate heat generated from the data center and circulate the water through pipes
+ filled with special 
+coolant from the data center to the underground surface. 
+We humans have been using this technique from ages to store food and wine in cellars [sp20-516-223-dc-gt-2].
+
+@fig:sp20-516-223-dc-gt-4 shows how Geothermal energy is used to ISB's new campus in Mohali [sp20-516-223-dc-gt-4].
+
+![How Geothermal energy cools data centers](images/geomethralcooling_large.jpg){#fig:sp20-516-223-dc-gt-4}  
+
+Following data centers use geothermal energy to cool [sp20-516-223-dc-gt-1].
 * American College Testing (Iowa)
 * Prairie Bunkers, LLC (Nebraska)
 * Verne Global (Iceland)
 
 ## E.Datacenter.5
 
-In order to reduce carbon footprint (reason for global warming), many countries and companies are heavily invested in using renewalable energy sources as well innovative ways to reuse energy. One such innovation is to reuse heat generated by IT equipments/servers in data centers. As large data centers tend to produce a lot of heat, this heat can be reused to either generate electricity or heating nearby homes and offices. The [link](https://www.sciencedirect.com/science/article/pii/S2210670718314318) provides detailed analysis regarding this.
+### Carbon Footprint
 
-From this article from [renewableenergyworld.com](https://www.renewableenergyworld.com/2020/01/16/new-ferc-report-shows-renewables-were-leading-source-of-new-capacity-in-2019/?topic=263626), Federal Energy Regulatory Commission (FERC) has observed that in 2019 renewables have increased their generation capacity (as of Nov 2019) and this trend will continue in coming years. 
+Mega data centers consume a lot of energy. It's estimated that data center consumes about 7% of total energy consumed in USA
+and one of the major contributors to CO2 emission which is believed to be the primary cause of global warming. 
 
-* Facebook at its [Odense Data Center (Odense, Denmark)](https://sustainability.fb.com/wp-content/uploads/2019/06/Waste_Heat_Recovery_Final_Jun2019.pdf) uses heat produced by servers which after recycling can be used in local district heating system. 
+### Change in Trend
+
+Federal Energy Regulatory Commission (FERC) has observed that in 2019 renewable energy producers have 
+increased their generation capacity and this trend will continue in the coming years [sp20-516-223-dc-ru-1]. 
+
+### Waste Heat Reuse
+
+To reduce carbon footprint, many countries and companies are heavily invested 
+in using renewable energy sources as well as innovative ways to reuse energy. 
+One such innovation is to reuse the heat generated by IT equipments/servers in data centers aka waste heat. 
+As mega/large data centers tend to produce a lot of heat, this heat can be reused to either generate electricity or 
+heating nearby homes and offices [sp20-516-223-dc-ru-2]. 
+
+#### Facebook's Odense Data Center
+
+Facebook at its Odense Data Center uses heat produced by servers which after recycling can be used in 
+local district heating system [sp20-516-223-dc-ru-3]. As per the report [sp20-516-223-dc-ru-3], Facebook claims 
+"Our facility's heat recovery infrastructure will help recover100,000 MWh of energy per year – enough to warm 6,900 homes".
+
+@fig:sp20-516-223-dc-ru-3 shows how waste heat can be reused to heat nearby homes [sp20-516-223-dc-ru-3].
+
+![Using waste heat to warm local community](images/fb_waste_heat_recovery_jun2019.png){#fig:sp20-516-223-dc-ru-3}
 
 ## E.Datacenter.8
 
-In recent years, all major IT companies (Amazon, Facebook, Google, Salesforce etc) had data center outages. It not only affects their business, but also all the businesses that depend on their services. 
-According to Gartner ([source](https://data-economy.com/outages-downtime-system-failures-2019s-it-meltdowns/)), the average cost of an IT outage is $5600 per minute. But that's just the one part. Depending on the type of business, the loss due to downtime could be $14000 per hour for low end and as much as $540000 per hour for high end centers.
+In recent years, all major IT companies (Amazon, Facebook, Google, Salesforce, etc.) had data center outages. 
+It not only affects their business, but also all the businesses that depend on their services. 
+The average cost of an IT outage is $5600 per minute. 
+But that's just the one part. Depending on the type of business, the loss due to downtime could be $14000 per hour 
+for low end and as much as $540000 per hour for high-end centers [sp20-516-223-dc-ot-1].
 
-Costco had an outage on Thanksgiving day in 2019 disabling its members from shopping online. Costco lost about 11 million in sales just because the website was too slow most of the time and completely out for sometime. 
+### Costco Outage 
 
-Facebook 14 hour partial outage on Nov 29, 2019:
+Costco had an outage on Thanksgiving day in 2019 disabling its members from shopping online. 
+Costco lost about 11 million in sales just because the website was too slow most of the time and completely out for some time. 
+In this case, it was just one companies' loss. But data center host services for many different companies and depending on 
+the size an outage can have huge revenue loss for both the providers and the consumer companies.
+
+### Facebook partial Outage - Nov 2019
+
 * Reason for outage: Server configuration change.
-* Everyday about 1.4 users use facebook which is equivalent to quarter of world's population. An partial outage would have impacted about half a billion users. 
-* Facebook stock was down 1.2% due to this outage as facebook will loose ad revenue from its pages.
-* Many Facebook users conduct business through Facebook and Instagram and a downtime means they loose business as well. 
+* Outage lasted for 14 hours.
+* Everyday about 1.4 users use Facebook which is equivalent to a quarter of the world's population. 
+A partial outage would impact about half a billion users. 
+* Facebook stock was down 1.2% due to this outage as Facebook will loose ad revenue from its pages wiping out billions.
+* Many Facebook users conduct business through Facebook and Instagram and downtime means they loose business as well. 
 * As the impact was so large, could not find any information related to affected users or loss in revenue. 
 
-According to this [article](https://www.information-management.com/news/how-much-does-downtime-really-cost) a approximate cost of an downtime/outage can be computed using 
+### Outage Cost Estimator
+
+An approximate cost of a downtime/outage can be computed using the following [sp20-516-223-dc-ot-2] 
 
 $$ Hourly Labor Cost = P \times A \times C $$
 
@@ -65,4 +115,5 @@ Where:
 * P = number of people affected 
 * A = average percentage they are affected 
 * C = average employee cost (salaries or wages + benefits)   
+
 

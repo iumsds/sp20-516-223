@@ -11,12 +11,39 @@ remote: Total 292 (delta 0), reused 5 (delta 0), pack-reused 284
 Receiving objects: 100% (292/292), 37.63 KiB | 4.18 MiB/s, done.
 Resolving deltas: 100% (119/119), done.
 
-(ENV3) ~/cm$cms help
+(ENV3) ~/cm$cd cloudmesh-rahul
+(ENV3) ~/cm/cloudmesh-rahul$pip install -e .
+Obtaining file:///home/rahul/cm/cloudmesh-rahul
+Requirement already satisfied: psutil in /home/rahul/ENV3/lib/python3.8/site-packages (from cloudmesh-rahul==4.1.3) (5.6.7)
+Requirement already satisfied: pygments in /home/rahul/ENV3/lib/python3.8/site-packages/Pygments-2.5.2-py3.8.egg (from cloudmesh-rahul==4.1.3) (2.5.2)
+Installing collected packages: cloudmesh-rahul
+  Found existing installation: cloudmesh-rahul 4.1.3
+    Uninstalling cloudmesh-rahul-4.1.3:
+      Successfully uninstalled cloudmesh-rahul-4.1.3
+  Running setup.py develop for cloudmesh-rahul
+Successfully installed cloudmesh-rahul
+
+(ENV3) ~/cm/cloudmesh-rahul$cms help
 
 Documented commands (type help <topic>):
 ========================================
 EOF     commands  echo  man     py    rahul  sleep      var
 banner  debug     help  pause   q     set    stopwatch  version
 clear   default   info  plugin  quit  shell  sys
+
+(ENV3) ~/cm/cloudmesh-rahul$cms rahul display
+
+# ----------------------------------------------------------------------
+# arguments
+# ----------------------------------------------------------------------
+# 36:do_rahul ./cloudmesh/rahul/command/rahul.py
+# ----------------------------------------------------------------------
+# {'--file': None, 'FILE': None, 'display': True, 'list': False}
+# ----------------------------------------------------------------------
+
+init Manager
+option c : display
+INFO: This is just a sample
+
 
 
