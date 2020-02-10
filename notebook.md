@@ -5,8 +5,10 @@
 * [x] Enhance datacenter.md report with more details, images and markdown.
 * [x] Add bibtex (datacenter.bib) for datacenter.md.
 * [ ] AWS Overview
-* [ ] AWS RoboMaker Introduction
+* [x] AWS RoboMaker Introduction
 * [ ] Review weekly chapter on OpenStack (if Possible)
+    * [ ] View Videos in Lecture Notes
+    * [ ] Review Chapter in Cloud Computing book
 
 ## Week 01/27/20 - 02/02/20
 
