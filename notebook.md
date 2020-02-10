@@ -1,5 +1,9 @@
 # Notebook Rahul Dharmchand sp20-516-223
 
+## Week 02/10/20 - 02/16/20
+
+* [ ] Review weekly chapter on OpenStack
+
 ## Week 02/03/20 - 02/09/20
 
 * [x] Enhance datacenter.md report with more details, images and markdown.
