@@ -2,8 +2,11 @@
 
 ## Week 02/03/20 - 02/09/20
 
+* [x] Enhance datacenter.md report with more details, images and markdown.
+* [x] Add bibtex (datacenter.bib) for datacenter.md.
+* [ ] AWS Overview
 * [ ] AWS RoboMaker Introduction
-* [ ] Review chapter
+* [ ] Review weekly chapter on OpenStack (if Possible)
 
 ## Week 01/27/20 - 02/02/20
 
