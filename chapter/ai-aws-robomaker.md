@@ -105,10 +105,12 @@ To illustrate RoboMaker features, we will launch an out-of-box Hello World sampl
 
 ```bash
 # Create Robot Application
+export S3KEY=hello-world-robot.tar
+
 $ aws robomaker create-robot-application \
       --application hello-world-sample \
       --robot-software-suite name=ROS,version=Melodic \
-      --sources architecture=X86_64,s3Bucket=awsrobomakerhelloworld-158121637282-bundlesbucket-7jgue1pq1k6u,s3Key=hello-world-robot.tar
+      --sources architecture=X86_64,s3Bucket=awsrobomakerhelloworld-158121637282-bundlesbucket-7jgue1pq1k6u,s3Key=$S3KEY
 ```
 
 ### Code Repository
