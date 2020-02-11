@@ -103,8 +103,12 @@ To illustrate RoboMaker features, we will launch an out-of-box Hello World sampl
 
 :o2: :TODO: CLI version to launch sample application, for e.g:
 
-``` # Create Robot Application
-$ aws robomaker create-robot-application --application hello-world-sample --robot-software-suite name=ROS,version=Melodic --sources architecture=X86_64,s3Bucket=awsrobomakerhelloworld-158121637282-bundlesbucket-7jgue1pq1k6u,s3Key=hello-world-robot.tar
+```bash
+# Create Robot Application
+$ aws robomaker create-robot-application \
+      --application hello-world-sample \
+      --robot-software-suite name=ROS,version=Melodic \
+      --sources architecture=X86_64,s3Bucket=awsrobomakerhelloworld-158121637282-bundlesbucket-7jgue1pq1k6u,s3Key=hello-world-robot.tar
 ```
 
 ### Code Repository
