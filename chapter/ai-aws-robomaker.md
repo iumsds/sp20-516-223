@@ -31,7 +31,7 @@ simulation to test the applications and deployment manager to deploy these appli
 
 ### AWS RoboMaker Features
 
-AWS RoboMaker provides the following features [sp20-516-223-aws-rm-ft]
+AWS RoboMaker provides the following features [@sp20-516-223-aws-rm-ft]
 
 * [Cloud extension for ROS](#Cloud-Extension-for-ROS)
 * [Development environment](#Development-environment)
