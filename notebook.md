@@ -40,7 +40,6 @@
 * [x] Propose Chapter: [AWS RoboMaker](https://aws.amazon.com/robomaker)
 * [x] Review Python language basics 
 * [x] Review cloudmesh chapter in Python book.
-
     #### Exercises
 * [x] Cloudmesh
     * [x] Cloudmesh Common
