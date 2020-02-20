@@ -16,6 +16,8 @@
 ## Week 02/10/20 - 02/16/20
 
 * [x] Review weekly chapter on OpenStack
+    * [x] View Videos in Lecture Notes
+    * [x] Review Chapter in Cloud Computing book
 * [x] Complete Multipass assignment
    * [x] Implement multipass commands - create, stop, start, reboot, delete and destory
    * [x] Add doc string for commands
@@ -31,8 +33,6 @@
 * [ ] AWS Overview
 * [x] AWS RoboMaker Introduction
 * [ ] Review weekly chapter on OpenStack (if Possible)
-    * [ ] View Videos in Lecture Notes
-    * [ ] Review Chapter in Cloud Computing book
 
 ## Week 01/27/20 - 02/02/20
 
