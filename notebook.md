@@ -2,13 +2,16 @@
 
 ## Week 02/17/20 - 02/23/20
 
-* [x] Understand Google Cloud
-   * [ ] Understand Google Compute API
-      * [ ] Python
-      * [ ] Rest
-   * [ ]  Understand Google Compute security
-      * [ ] How to configure and use Keys (ssh-keys)
-      * [ ] How to configure and use Security Groups (Roles)
+* [ ] Review Hypervisor Chapter
+* [ ] Review IAAS Chapter
+  * [x] Understand Google Cloud (IAAS)
+* [ ] Understand Google Compute API
+  * [ ] Python
+  * [ ] Rest
+  * [ ] Create/Update readme.md
+* [ ]  Understand Google Compute security
+  * [ ] How to configure and use Keys (ssh-keys)
+  * [ ] How to configure and use Security Groups (Roles)
 
 ## Week 02/10/20 - 02/16/20
 
