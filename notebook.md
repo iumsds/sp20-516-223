@@ -1,8 +1,25 @@
 # Notebook Rahul Dharmchand sp20-516-223
 
+## Week 02/17/20 - 02/23/20
+
+* [x] Understand Google Cloud
+   * [ ] Understand Google Compute API
+      * [ ] Python
+      * [ ] Rest
+   * [ ]  Understand Google Compute security
+      * [ ] How to configure and use Keys (ssh-keys)
+      * [ ] How to configure and use Security Groups (Roles)
+
 ## Week 02/10/20 - 02/16/20
 
-* [ ] Review weekly chapter on OpenStack
+* [x] Review weekly chapter on OpenStack
+* [x] Complete Multipass assignment
+   * [x] Implement multipass commands - create, stop, start, reboot, delete and destory
+   * [x] Add doc string for commands
+   * [x] Add pytests for implemented commands
+* [x] Complete Openstack Lab
+   * [x] Create instance using Horizon Portal and connect using SSH.
+   * [x] Create instance using cms and connect using SSH.
 
 ## Week 02/03/20 - 02/09/20
 
