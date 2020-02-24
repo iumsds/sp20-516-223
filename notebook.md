@@ -1,17 +1,20 @@
 # Notebook Rahul Dharmchand sp20-516-223
 
+## Week 02/24/20 - 03/01/20
+
 ## Week 02/17/20 - 02/23/20
 
-* [ ] Review Hypervisor Chapter
-* [ ] Review IAAS Chapter
+* [x] Chapter Review: Hypervisor
+* [ ] Chapter Review: IAAS
   * [x] Understand Google Cloud (IAAS)
 * [ ] Understand Google Compute API
-  * [ ] Python
+  * [x] Python
   * [ ] Rest
-  * [ ] Create/Update readme.md
-* [ ]  Understand Google Compute security
-  * [ ] How to configure and use Keys (ssh-keys)
-  * [ ] How to configure and use Security Groups (Roles)
+  * [ ] Google SDK (gcloud)
+* [ ] Create/Update Project readme.md
+* [x]  Understand Google Compute security
+  * [x] How to configure and use Keys (ssh-keys)
+  * [x] How to configure and use Security Groups (Roles)
 
 ## Week 02/10/20 - 02/16/20
 
