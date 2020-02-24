@@ -42,7 +42,7 @@ We humans have been using this technique from ages to store food and wine in cel
 
 @fig:sp20-516-223-dc-gt-4 shows how Geothermal energy is used to ISB's new campus in Mohali [@sp20-516-223-dc-gt-4].
 
-![How Geothermal energy cools data centers](images/geomethralcooling_large.jpg){#fig:sp20-516-223-dc-gt-4}  
+![How Geothermal energy cools data centers [@sp20-516-223-dc-gt-4]](images/geomethralcooling_large.jpg){#fig:sp20-516-223-dc-gt-4}  
 
 Following data centers use geothermal energy to cool [@sp20-516-223-dc-gt-1].
 * American College Testing (Iowa)
@@ -77,7 +77,7 @@ local district heating system [@sp20-516-223-dc-ru-3]. As per the report [@sp20-
 
 @fig:sp20-516-223-dc-ru-3 shows how waste heat can be reused to heat nearby homes [@sp20-516-223-dc-ru-3].
 
-![Using waste heat to warm local community](images/fb_waste_heat_recovery_jun2019.png){#fig:sp20-516-223-dc-ru-3}
+![Using waste heat to warm local community [@sp20-516-223-dc-ru-3]](images/fb_waste_heat_recovery_jun2019.png){#fig:sp20-516-223-dc-ru-3}
 
 ## E.Datacenter.8
 
