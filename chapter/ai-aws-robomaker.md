@@ -2,6 +2,8 @@
 
 :o2: one of the refs is broken
 
+:o2: do better block formating of raw markdown
+
 * Rahul Dharmchand, [sp20-516-223](https://github.com/cloudmesh-community/sp20-516-223) 
 
 ## Introduction
