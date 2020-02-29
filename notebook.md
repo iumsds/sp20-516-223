@@ -2,12 +2,18 @@
 
 ## Week 02/24/20 - 03/01/20
 
+* [x] Chapter Review: Rest API
+* [x] Test server.py and cpu
+ * [x] On Local Machine
+ * [x] On Chameleon cloud
+* [ ] Excercises
+
 ## Week 02/17/20 - 02/23/20
 
 * [x] Chapter Review: Hypervisor
-* [ ] Chapter Review: IAAS
+* [x] Chapter Review: IAAS
   * [x] Understand Google Cloud (IAAS)
-* [ ] Understand Google Compute API
+* [x] Understand Google Compute API
   * [x] Python
   * [ ] Rest
   * [ ] Google SDK (gcloud)
