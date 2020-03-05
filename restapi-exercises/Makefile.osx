@@ -1,0 +1,20 @@
+define terminal
+   osascript -e 'tell application "Terminal" to do script "cd $(PWD); $1"'
+endef
+
+install:
+	pip install -r requirements.txt
+
+startserver:
+	osascript -e 'tell application "Terminal" to do shell script "python server.py"'
+	sleep 3
+
+demo:
+	$(call terminal, python server.py)
+	@echo "=================================="
+	sleep 3
+	@echo "Get the Info"
+	@echo "=================================="
+	curl http://localhost:8080/cloudmesh/cpu
+	@echo
+	@echo "=================================="
