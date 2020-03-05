@@ -1,5 +1,15 @@
 # Notebook Rahul Dharmchand sp20-516-223
 
+## Week 03/02/20 - 03/08/20
+
+* [ ] Project Review : google compute
+    * [ ] Update cloudmesh.yaml
+    * [ ] Implement cms register google command
+    * [ ] Update Provider.py
+        * [ ] Document Methods.
+    * [ ] Update PyTests
+* [x] AWS Robomaker - Fix reference and block formatting.
+
 ## Week 02/24/20 - 03/01/20
 
 * [x] Chapter Review: Rest API
@@ -7,6 +17,7 @@
  * [x] On Local Machine
  * [x] On Chameleon cloud
 * [ ] Excercises
+    * [x] Partially done.
 
 ## Week 02/17/20 - 02/23/20
 
@@ -15,9 +26,9 @@
   * [x] Understand Google Cloud (IAAS)
 * [x] Understand Google Compute API
   * [x] Python
-  * [ ] Rest
-  * [ ] Google SDK (gcloud)
-* [ ] Create/Update Project readme.md
+  * [x] Rest
+  * [x] Google SDK (gcloud)
+* [x] Create/Update Project readme.md : Not needed as reusing existing compute.
 * [x]  Understand Google Compute security
   * [x] How to configure and use Keys (ssh-keys)
   * [x] How to configure and use Security Groups (Roles)
