@@ -1,11 +1,23 @@
 # Notebook Rahul Dharmchand sp20-516-223
 
+## Week 03/06/20 - 03/22/20 
+
+**Winter Break**
+* [ ] Project : cms register command misc fixes
+* [ ] Project : google compute commands (cms vm create, key)
+
+## Week 03/09/20 - 03/15/20
+
+* [x] Project : cms register list, list sample, remove and update.
+* [x] Project : google compute commands (cms vm list, start, stop, destroy)
+
+
 ## Week 03/02/20 - 03/08/20
 
 * [ ] Project Review : google compute
-    * [ ] Update cloudmesh.yaml
-    * [ ] Implement cms register google command
-    * [ ] Update Provider.py
+    * [x] Update cloudmesh.yaml
+    * [x] Implement cms register google command
+    * [x] Update Provider.py
         * [ ] Document Methods.
     * [ ] Update PyTests
 * [x] AWS Robomaker - Fix reference and block formatting.
