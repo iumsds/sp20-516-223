@@ -5,7 +5,6 @@ import time
 from google.oauth2 import service_account
 from googleapiclient.discovery import build
 
-# CLIENT_SECRET_FILE = '/e516/cm/sp20-516-223/project/prefab-manifest-269104-744f67274f4b.json'
 CLIENT_SECRET_FILE = '/e516/cm/<<HID>>/project/<<gcp_project>>-xxx.json'
 COMPUTE_API_SERVICE_NAME = 'compute'
 STORAGE_API_SERVICE_NAME = 'storage'
@@ -13,12 +12,12 @@ COMPUTE_API_VERSION = 'v1'
 COMPUTE_API_SCOPES = ['https://www.googleapis.com/auth/compute', 'https://www.googleapis.com/auth/cloud-platform']
 STORAGE_API_SCOPES = ['https://www.googleapis.com/auth/cloud-platform.read-only',
                       'https://www.googleapis.com/auth/devstorage.read_write']
-PROJECT_ID = 'prefab-manifest-269104'
+PROJECT_ID = '<<gcp_project>>'
 BUCKET_NAME = 'cloudmesh-bucket'
 ZONE = 'us-west3-a'
 MACHINE_TYPE = 'n1-standard-1'
-SERVICE_ACCOUNT_EMAIL = 'cloudmesh-service-account@prefab-manifest-269104.iam.gserviceaccount.com'
-START_UP_SCRIPT_PATH = '/e516/cm/sp20-516-223/project/'
+SERVICE_ACCOUNT_EMAIL = 'cloudmesh-service-account@<<gcp_project>>.iam.gserviceaccount.com'
+START_UP_SCRIPT_PATH = '/e516/cm/<<HID>>/project/'
 START_UP_SCRIPT_FILE = 'gcp_vm_startup_script.sh'
 
 
