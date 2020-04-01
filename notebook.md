@@ -1,15 +1,23 @@
 # Notebook Rahul Dharmchand sp20-516-223
 
-## Week 03/06/20 - 03/22/20 
+## Week 03/31/20 - 04/05/20 
+
+* [ ] Project : google compute commands (cms key)
+* [ ] Review Docker Chapter
+
+## Week 03/23/20 - 03/30/20 
+
+* [x] Project : google compute commands (cms vm boot)
 
 **Winter Break**
-* [ ] Project : cms register command misc fixes
-* [ ] Project : google compute commands (cms vm create, key)
+
+* [x] Project : cms register command misc fixes
+* [x] Project : google compute commands images
 
 ## Week 03/09/20 - 03/15/20
 
 * [x] Project : cms register list, list sample, remove and update.
-* [x] Project : google compute commands (cms vm list, start, stop, destroy)
+* [x] Project : google compute commands (cms vm list, start, stop)
 
 
 ## Week 03/02/20 - 03/08/20
